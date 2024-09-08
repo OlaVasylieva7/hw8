@@ -1,0 +1,15 @@
+{
+  "name": "hw8",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "@parcel/transformer-json": "^2.12.0"
+  }
+}

@@ -1,0 +1,17 @@
+[
+    {
+    "title": "Crazy Minions",
+    "year": 2027,
+    "director": "Ocia Vasylka",
+    "genre":"comedy",
+    "actors": ["Kevin", "Bob", "Stuart"]
+},
+
+{
+    "title": "Demure Minions",
+    "year": 2047,
+    "director": "Olcia Vasylka",
+    "genre":"comedy",
+    "actors": ["Kevin", "Jerry", "Dave"]
+}
+]
